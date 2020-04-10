@@ -1,0 +1,6 @@
+C:\Users\korisnik\source\repos\buricmarioKlaseIObjekti2\buricmarioKlaseIObjekti2\bin\Debug\buricmarioKlaseIObjekti2.exe.config
+C:\Users\korisnik\source\repos\buricmarioKlaseIObjekti2\buricmarioKlaseIObjekti2\bin\Debug\buricmarioKlaseIObjekti2.exe
+C:\Users\korisnik\source\repos\buricmarioKlaseIObjekti2\buricmarioKlaseIObjekti2\bin\Debug\buricmarioKlaseIObjekti2.pdb
+C:\Users\korisnik\source\repos\buricmarioKlaseIObjekti2\buricmarioKlaseIObjekti2\obj\Debug\buricmarioKlaseIObjekti2.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\buricmarioKlaseIObjekti2\buricmarioKlaseIObjekti2\obj\Debug\buricmarioKlaseIObjekti2.exe
+C:\Users\korisnik\source\repos\buricmarioKlaseIObjekti2\buricmarioKlaseIObjekti2\obj\Debug\buricmarioKlaseIObjekti2.pdb
